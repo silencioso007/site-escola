@@ -17,3 +17,26 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem {
+    width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient(#383D58,#F6F7F8);
+    color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+
+.escola-div-conteudo {
+    text-content: center
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+}
