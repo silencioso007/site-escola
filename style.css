@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .cabecalho {   
      background-color: #383D58;
      color: white;
@@ -39,4 +42,14 @@
 
 .escola-titulo {
     padding: 24px 0;
+}
+
+.quem-somos-texto {
+    padding: 5%;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    
 }
